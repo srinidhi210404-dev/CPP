@@ -38,9 +38,9 @@ int main()
 {
 String s1;
 s1.display();
-String s2("sarmi");
+String s2("srinidhi");
 s2.display();
-String s3("sarmi","sweety");
+String s3("srinidhi","madhu");
 s3.display();
 return 0;
 }
